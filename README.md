@@ -18,7 +18,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 * **database_sql/**: Scripts de MySQL Workbench.
 * **docs/**: Documentación y leyes de software.
 * **python_app/**: Aplicación de escritorio (POO).
-
+## Tecnologias usadas 
 * **HTML5  – Estructura semántica del sitio web.
 * **JavaScript  – Lógica de programación y dinamismo en el cliente.
 * **GitHub – Alojamiento del repositorio y despliegue del proyecto.

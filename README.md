@@ -1,6 +1,5 @@
-# Proyecto: Estación Meteorológica 2026 💧🌧
 
-
+# $${\blue{#00ff88}🌧️ Estación Meteorológica 2026} $${\white{#ffaa00}💧☀️🌡️}
 ## Especialidad / 5to Año
 
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en Python y Análisis de datos.
@@ -10,7 +9,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :--- | :--- |
 | ROMERO marcos valentin | mvromero@escuelasproa.edu.ar | [ver perfil](https://github.com/marcromero166) |
- 
+
 ## Estructura del Proyecto👾
 * **analisis_ipynb/** Prototipado de datos en Google Colab.
 * **arduino_ino/** Código fuente para el Arduino UNO R3.
@@ -18,8 +17,22 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 * **database_sql/**: Scripts de MySQL Workbench.
 * **docs/**: Documentación y leyes de software.
 * **python_app/**: Aplicación de escritorio (POO).
+
 ## Tecnologias usadas 📱
-* **python🐍 - Sirvió para leer, limpiar y ordenar la información antes de mostrarla
-* **GitHub😺 – Alojamiento del repositorio y despliegue del proyecto.
-* **Visual Studio Code💻  – Editor de código principal con extensiones de productividad.
-* **MySQL 🐬 – Base de datos para almacenar y gestionar toda la información del proyecto.
+En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
+
+### 🔬 Club de Ciencias (Análisis y Datos)
+* [Google Colab](https://colab.research.google.com/) - Prototipado de datos y uso de librerías científicas.
+* [MySQL Workbench](https://www.mysql.com/products/workbench/) - Diseño y gestión de la base de datos relacional.
+* [Power BI](https://powerbi.microsoft.com/) - Creación de dashboards interactivos para la visualización del clima.
+
+### 🐍 Programación III (Software)
+* [Visual Studio Code](https://code.visualstudio.com/) - Entorno de desarrollo (IDE) principal.
+* [Python](https://www.python.org/) - Lenguaje de programación con enfoque en **POO** (Programación Orientada a Objetos).
+* **Librerías de Conexión**: Uso de conectores para vincular la lógica de Python con la base de datos.
+
+### 🤖 Robótica (Hardware y Simulación)
+* [Arduino IDE](https://www.arduino.cc/en/software) - Programación del microcontrolador en **C++**.
+* [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
+* **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
+

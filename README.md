@@ -1,5 +1,6 @@
 
-# $${\blue{#00ff88}🌧️ Estación Meteorológica 2026} $${\white{#ffaa00}💧☀️🌡️}
+# Proyecto: Estación Meteorológica 2026 💧🌧
+
 ## Especialidad / 5to Año
 
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en Python y Análisis de datos.
@@ -19,6 +20,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 * **python_app/**: Aplicación de escritorio (POO).
 
 ## Tecnologias usadas 📱
+
 En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
 
 ### 🔬 Club de Ciencias (Análisis y Datos)
@@ -34,5 +36,5 @@ En este proyecto integramos diversas herramientas distribuidas en tres áreas cl
 ### 🤖 Robótica (Hardware y Simulación)
 * [Arduino IDE](https://www.arduino.cc/en/software) - Programación del microcontrolador en **C++**.
 * [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
-* **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
+* **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico
 

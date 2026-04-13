@@ -1,5 +1,5 @@
-````diff
--# Proyecto: Estación Meteorológica 2026 💧🌧-
+
+# Proyecto: Estación Meteorológica 2026 💧🌧
 
 ## Especialidad / 5to Año
 
@@ -10,7 +10,6 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 | Apellido y Nombre | E-mail | GitHub |
 | :--- | :--- | :--- |
 | ROMERO marcos valentin | mvromero@escuelasproa.edu.ar | [ver perfil](https://github.com/marcromero166) |
-```diff
 
 ## Estructura del Proyecto👾
 * **analisis_ipynb/** Prototipado de datos en Google Colab.
